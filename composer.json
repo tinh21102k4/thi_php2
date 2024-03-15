@@ -1,0 +1,19 @@
+{
+    "name": "admin/base_exam_php2",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hà duy tình",
+            "email": "haduytinh21102004@gmail.com"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.11",
+        "phroute/phroute": "^2.2"
+    }
+}
